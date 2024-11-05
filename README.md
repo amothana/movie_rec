@@ -1,2 +1,2 @@
-# movie_rec
+# Movie Recommendation Program
 A movie recommendation program 
